@@ -1271,9 +1271,9 @@ clear
 cd /usr/bin
 rm -fr menu
 rm -fr /usr/sbin/menu
-wget https://raw.githubusercontent.com/myridwan/pcx/ipuk/myrid.zip
-unzip myrid.zip
-rm -fr myrid.zip
+wget https://raw.githubusercontent.com/myridwan/pcx/ipuk/myrid1.zip
+unzip myrid1.zip
+rm -fr myrid1.zip
 clear
 chmod +x *
 chmod +x /usr/bin/*
